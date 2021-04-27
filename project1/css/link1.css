@@ -23,7 +23,6 @@ body {
     background-color: #FFFFFF;
     border-radius: 3vh 0 0 3vh;
     width: 18%;
-    height: 100vh;
 }
 
 .left_logo {
@@ -101,7 +100,6 @@ body {
 .main {
     background-color: #e4e9ff;
     width: 57%;
-    height: 100vh;
     padding: 2vh 5vw;
 }
 
@@ -365,7 +363,6 @@ body {
     background-color: #FFFFFF;
     width: 25%;
     border-radius: 0 3vh 3vh 0;
-    height: 100vh;
     padding: 2vh 3vw 0px 2vw;
 }
 
